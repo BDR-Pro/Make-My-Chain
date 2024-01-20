@@ -100,5 +100,4 @@ Contributions to the Express-Oumla application are welcome. Please follow the st
 
 ## License
 
-Specify the license under which the project is made available.
-
+MIT License
